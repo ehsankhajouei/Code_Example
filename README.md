@@ -1,2 +1,2 @@
 # Code_Example
-This is the first part of a workflow that I created recently. 
+Here is the first part of a workflow that I created recently. This part serves to estimate Best Linear Unbiased Estimator, BLUE, by means of mixed modeling in R. BLUEs or the adjusted phenotypes, subsequently, will be used in GWAS. The subset of data was taken from a study on plant physiology in which quantitative measurements for each taxon were taken. The whole data and other parts of workflow in R and Python and command line will be uploaded upon publishing our paper. The experimental design was an alpha-lattice which is one of the most prevalent designs in plant research.
